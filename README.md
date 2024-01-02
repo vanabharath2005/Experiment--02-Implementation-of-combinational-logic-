@@ -1,3 +1,5 @@
+### NAME: VANABHARATH.D
+### ROLL NO: 23000857
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
